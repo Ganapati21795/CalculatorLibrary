@@ -13,6 +13,6 @@ class TestCalculator:
 
     def test_multiplication(self):
         assert 15 == calculator.multiply(5, 3)
-    
+
     def test_validate_two_headers_in_web(self):
         assert 'aknamed' == 'aknamed'
